@@ -44,7 +44,6 @@ python3 setup.py install
 
 ```cmd
 D:\maye\常用工具\pocsuite3\pocsuite3-master\pocsuite3>pocsuite --version
-
 ,------.                        ,--. ,--.       ,----.   {1.9.2-nongit-20220315}
 |  .--. ',---. ,---.,---.,--.,--`--,-'  '-.,---.'.-.  |
 |  '--' | .-. | .--(  .-'|  ||  ,--'-.  .-| .-. : .' <
