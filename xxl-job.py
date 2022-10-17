@@ -92,7 +92,6 @@ class DemoPOC(POCBase):
 def other_fuc():
     pass
 
-
 def other_utils_func():
     pass
 
