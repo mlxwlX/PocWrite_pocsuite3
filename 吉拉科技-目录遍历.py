@@ -21,7 +21,6 @@ from pocsuite3.lib.core.interpreter_option import (
 )
 from pocsuite3.modules.listener import REVERSE_PAYLOAD
 
-
 class DemoPOC(POCBase):
     vulID = "0"  # ssvid ID 如果是提交漏洞的同时提交 PoC,则写成 0
     version = "1"  # 默认为1
