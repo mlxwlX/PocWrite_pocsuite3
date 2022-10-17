@@ -100,6 +100,5 @@ def other_fuc():
 def other_utils_func():
     pass
 
-
 # 注册 DemoPOC 类
 register_poc(DemoPOC)
